@@ -1,0 +1,24 @@
+body {
+	background: url(/img/stars.gif);
+	font-size: 20px;
+	color: cyan;
+}
+
+h1 {
+
+	font-size: 60px;
+	color: lime;
+}
+
+h1, h2 {
+	margin-top: 60px;
+}
+
+
+marquee {
+	margin-top: 20px;
+	font-size: 32px;
+	height: 50px;
+}
+
+#overview { margin-top: 50px;}
